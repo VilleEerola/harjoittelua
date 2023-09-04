@@ -23,8 +23,6 @@ git add -p
 Tee jotain muutoksia tiedostoihin eka.txt ja kolmas.txt
 tee sekä lisäyksiä että poistoja
 lisää ne commitoitavaksi komennolla git add -p
-git näyttää nyt jokaisen tekemäsi muutoksen patch-muodossa ja pyytää varmistamaan lisätäänkö muutos commitoivaksi
-hyväksy painamalla y ja enter
-commitoi muutoksetTama on testi
-heido
+git näyttää nyt jokaisen tekemäsi muutoksen patch-muodossa
 
+HELLO WORLD
